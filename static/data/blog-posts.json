@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with Go",
+      "slug": "getting-started-with-go",
+      "date": "2024-03-15",
+      "text": "Go is a fantastic programming language for building web applications. Here's how to get started...",
+      "is_published": true
+    },
+    {
+      "id": 2,
+      "title": "The Art of Coffee Brewing",
+      "slug": "art-of-coffee-brewing",
+      "date": "2024-03-14",
+      "text": "The perfect cup of coffee starts with selecting the right beans and grinding them properly...",
+      "is_published": true
+    },
+    {
+      "id": 3,
+      "title": "Web Development Best Practices",
+      "date": "2024-03-13",
+      "text": "When developing web applications, it's crucial to follow these essential practices...",
+      "is_published": true
+    },
+    {
+      "id": 4,
+      "title": "Draft: Future of AI",
+      "date": "2024-03-12",
+      "text": "Artificial Intelligence is rapidly evolving and changing how we approach software development...",
+      "is_published": false
+    },
+    {
+      "id": 5,
+      "title": "Understanding RESTful APIs",
+      "date": "2024-03-11",
+      "text": "REST APIs are the backbone of modern web services. Let's explore the key concepts...",
+      "is_published": true
+    },
+    {
+      "id": 6,
+      "title": "Meditation for Programmers",
+      "date": "2024-03-10",
+      "text": "Finding focus and maintaining mental clarity is essential for writing good code...",
+      "is_published": true
+    },
+    {
+      "id": 7,
+      "title": "Draft: Database Design Tips",
+      "date": "2024-03-09",
+      "text": "Proper database design is crucial for application performance and maintainability...",
+      "is_published": false
+    },
+    {
+      "id": 8,
+      "title": "JavaScript Modern Features",
+      "date": "2024-03-08",
+      "text": "ES6 and beyond have introduced many powerful features to JavaScript...",
+      "is_published": true
+    },
+    {
+      "id": 9,
+      "title": "Building Responsive Websites",
+      "date": "2024-03-07",
+      "text": "Mobile-first design is no longer optional. Here's how to ensure your site works on all devices...",
+      "is_published": true
+    },
+    {
+      "id": 10,
+      "title": "Draft: Cloud Computing Basics",
+      "date": "2024-03-06",
+      "text": "Understanding cloud computing is essential for modern software development...",
+      "is_published": false
+    }
+  ]
+} 
